@@ -11,6 +11,7 @@ CATEGORY_OPTIONS = (
 	('Healthcare','Healthcare'),
 	('Retail & Sales','Retail & Sales'),
 	('Food & Restaurant', 'Food & Restaurant'),
+	('Engineering', 'Engineering'),
 	('Charity and fundraising organising', 'Charity and fundraising organising'),
 	('Research and Thesis', 'Research and Thesis'),
 	)
